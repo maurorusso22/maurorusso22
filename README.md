@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maurorusso22
-- 👀 I’m interested in Mobile App Development
+- 👀 I’m interested in Artificial Intelligence and Mobile App Development
 - 📫 How to reach me: maurorusso.dev@gmail.com
 
 <!---
